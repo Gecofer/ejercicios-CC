@@ -6,7 +6,7 @@ He decidido darme de alta en Heroku, ya que es uno de los PaaS más utilizados y
 
 1. Entrar en la página https://signup.heroku.com
 2. Rellenar un formulario como el siguiente:
-![Sign up Heroku](images/heroku2.png)
+![Sign up Heroku](images/heroku0.png)
 3. Confirmar tu cuenta.
 4. Y ya podemos empezar a desplegar aplicaciones en la nube.
 ![Inicio Heroku](images/heroku1.png)
