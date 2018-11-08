@@ -12,7 +12,7 @@ He decidido darme de alta en Heroku, ya que es uno de los PaaS más utilizados y
 3. Confirmar tu cuenta.
 4. Y ya podemos empezar a desplegar aplicaciones en la nube.
 <p align="center">
-  <img width="600" height="500" src="images/heroku1.png">
+  <img width="700" height="500" src="images/heroku1.png">
 </p>
 
 Más adelante [veremos como crear un proyecto y subirlo a heroku](https://www.uno-de-piera.com/heroku-servicio-de-computacion-en-la-nube/)
