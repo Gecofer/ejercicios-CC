@@ -7,7 +7,7 @@ Para instalar la línea de órdenes de [Heroku Command Line Interface (CLI)](htt
 1. Hacer uso de `brew install heroku/brew/heroku`:
 
 <p align="center">
-  <img width="500" height="50" src="images/heroku2.png">
+  <img width="500" height="80" src="images/heroku2.png">
 </p>
 
 2. Instalando:
@@ -24,11 +24,11 @@ Para instalar la línea de órdenes de [Heroku Command Line Interface (CLI)](htt
 4. Acceso a heroku con `heroku login`:
 
 <p align="center">
-  <img width="400" height="100" src="images/heroku5.png">
+  <img width="200" height="100" src="images/heroku5.png">
 </p>
 
 5. Cofirmación de acceso a heroku:
 
 <p align="center">
-  <img width="100" height="50" src="images/heroku6.png">
+  <img width="300" height="100" src="images/heroku6.png">
 </p>
