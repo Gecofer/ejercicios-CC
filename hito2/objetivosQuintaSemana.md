@@ -1,17 +1,21 @@
 ## Quinta Semana (31 de Octubre de 2018)
 
-#### Objetivo 1. Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de [Heroku](https://devcenter.heroku.com/articles/getting-started-with-python).
+#### Objetivo 1. Instalar las herramientas de línea de órdenes de las herramientas cloud, en este caso de Heroku.
 
+Para instalar la línea de órdenes de [Heroku Command Line Interface (CLI)](https://devcenter.heroku.com/articles/getting-started-with-python#set-up)
 
-Hacer uso de `brew install heroku/brew/heroku`:
-
-<p align="center">
-  <img width="600" height="300" src="images/heroku2.png">
-</p>
+1. Hacer uso de `brew install heroku/brew/heroku`:
 
 <p align="center">
-  <img width="700" height="300" src="images/heroku3.png">
+  <img width="900" height="200" src="images/heroku2.png">
 </p>
+
+2. Instalando  
+<p align="center">
+  <img width="650" height="200" src="images/heroku3.png">
+</p>
+
+3. Fin de la instalación
 
 <p align="center">
   <img width="700" height="300" src="images/heroku4.png">
