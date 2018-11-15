@@ -24,7 +24,7 @@ Para instalar la línea de órdenes de [Heroku Command Line Interface (CLI)](htt
 4. Acceso a heroku con `heroku login`:
 
 <p align="center">
-  <img width="200" height="100" src="images/heroku5.png">
+  <img width="400" height="50" src="images/heroku5.png">
 </p>
 
 5. Cofirmación de acceso a heroku:
