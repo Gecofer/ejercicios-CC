@@ -6,21 +6,21 @@
 Hacer uso de `brew install heroku/brew/heroku`:
 
 <p align="center">
-  <img width="350" height="400" src="images/heroku2.png">
+  <img width="600" height="300" src="images/heroku2.png">
 </p>
 
 <p align="center">
-  <img width="350" height="400" src="images/heroku3.png">
+  <img width="700" height="300" src="images/heroku3.png">
 </p>
 
 <p align="center">
-  <img width="350" height="400" src="images/heroku4.png">
+  <img width="700" height="300" src="images/heroku4.png">
 </p>
 
 <p align="center">
-  <img width="350" height="400" src="images/heroku5.png">
+  <img width="700" height="300" src="images/heroku5.png">
 </p>
 
 <p align="center">
-  <img width="350" height="400" src="images/heroku6.png">
+  <img width="700" height="300" src="images/heroku6.png">
 </p>
